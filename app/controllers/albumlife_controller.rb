@@ -1,0 +1,2 @@
+class AlbumlifeController < ApplicationController
+end

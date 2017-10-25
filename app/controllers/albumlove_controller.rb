@@ -1,0 +1,2 @@
+class AlbumloveController < ApplicationController
+end

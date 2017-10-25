@@ -1,0 +1,2 @@
+module AlbumloveHelper
+end
